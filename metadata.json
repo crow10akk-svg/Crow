@@ -1,0 +1,11 @@
+{
+  "name": "Mahalla Nazorat — Milliy Profilaktika Portali",
+  "description": "O‘zbekiston Respublikasi bo‘yicha fuqarolarning video murojaatlarini tegishli MFY profilaktika inspektoriga avtomatik yetkazish va nazorat qilish platformasi.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
